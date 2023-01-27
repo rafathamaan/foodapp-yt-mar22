@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
 import { app } from "../firebase.config";
 
-import Logo from "/Users/rafathamaan/Documents/GitHub/foodapp-yt-mar22/src/img/mlritlogo.png";
+import Logo from "/Users/rafathamaan/Documents/GitHub/foodapp/src/img/mlritlogo.png";
 import Avatar from "../img/avatar.png";
 import { Link } from "react-router-dom";
 import { useStateValue } from "../context/StateProvider";

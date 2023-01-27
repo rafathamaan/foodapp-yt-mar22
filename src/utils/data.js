@@ -1,7 +1,7 @@
-import idli from "/Users/rafathamaan/Documents/GitHub/foodapp-yt-mar22/src/img/idli.jpeg";
-import mbajji from "/Users/rafathamaan/Documents/GitHub/foodapp-yt-mar22/src/img/mbajji.jpeg";
-import wada from "/Users/rafathamaan/Documents/GitHub/foodapp-yt-mar22/src/img/wada.jpeg";
-import puri from "/Users/rafathamaan/Documents/GitHub/foodapp-yt-mar22/src/img/puri.jpeg";
+import idli from "/Users/rafathamaan/Documents/GitHub/foodapp/src/img/idli.jpeg";
+import mbajji from "/Users/rafathamaan/Documents/GitHub/foodapp/src/img/mbajji.jpeg";
+import wada from "/Users/rafathamaan/Documents/GitHub/foodapp/src/img/wada.jpeg";
+import puri from "/Users/rafathamaan/Documents/GitHub/foodapp/src/img/puri.jpeg";
 
 export const heroData = [
   {
